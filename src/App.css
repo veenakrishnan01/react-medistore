@@ -1,0 +1,41 @@
+td,
+th {
+  border: 1px solid #dddddd;
+  text-align: left;
+  padding: 8px;
+}
+th {
+  background-color: #f2f2f2;
+}
+tr {
+  background-color: #f9f9f9;
+}
+
+body {
+  margin: 20px;
+  padding: 0;
+  background-image: url(/medicals.jpg);
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+}
+
+form {
+  border: 1px solid;
+  padding: 20px;
+  border-radius: 12px;
+  width: 500px;
+  margin: 0 auto;
+}
+
+h1 {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+table {
+  width: 100%;
+  border-collapse: collapse;
+  margin-top: 16px;
+}
